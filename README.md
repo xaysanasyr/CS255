@@ -5,6 +5,7 @@ Briefly summarize the DriverPass project. Who was the client? What type of syste
 The DrivePass project is a web-based application for Liam, the client; wants to be able to set up driving courses and tests to students to be able to pass. 
 
 What did you do particularly well?
+I thought that I did the buisness requirements project exceptionally well, but then again there is always room for improvement. I could also list more nonfunctional and functional requirements. I also think that I did well on the DriverPass Powerpoint, and explained how the system is.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 I would choose my diagrams from the system design phase. I would improve adding more functions and better interactions between them.
